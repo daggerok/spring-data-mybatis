@@ -1,4 +1,4 @@
-= spring-data-mybatis
+= spring-data-mybatis image:https://travis-ci.org/daggerok/spring-data-mybatis.svg?branch=master["Build Status", link="https://travis-ci.org/daggerok/spring-data-mybatis"]
 
 //tag::content[]
 == spring-boot mybatis
